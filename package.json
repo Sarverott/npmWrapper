@@ -1,0 +1,41 @@
+{
+  "name": "npmwrapper",
+  "version": "0.3.0",
+  "description": "Just node.js wrapper of shell command \"npm\". Library for automatization of npm routines. I can't find something similar, so I'm making one.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarverott/npmWrapper.git"
+  },
+  "keywords": [
+    "npm",
+    "wrap",
+    "require",
+    "npm",
+    "use",
+    "js",
+    "include",
+    "import",
+    "publish",
+    "init",
+    "wrapper",
+    "library",
+    "lib",
+    "package",
+    "package.json",
+    "audit"
+  ],
+  "author": "Sett Sarverott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sarverott/npmWrapper/issues"
+  },
+  "homepage": "https://github.com/Sarverott/npmWrapper#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
